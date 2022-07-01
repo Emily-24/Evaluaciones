@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.idat</groupId>
-	<artifactId>EC2-EMILYVALENZUELA</artifactId>
+	<artifactId>EC2-EmilyHeidy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EC2-EMILYVALENZUELA</name>
+	<name>EC2-EmilyHeidy</name>
 	<description>Evaluacion Continua</description>
 	<properties>
 		<java.version>11</java.version>
